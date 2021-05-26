@@ -1,0 +1,30 @@
+h1 {
+    color: brown;
+    margin-left: 300px;
+    padding-left:300px;
+}
+
+
+.header{
+    background-color:pink;
+    justify-content: space-between;
+    display:flex;
+}
+.menu{
+    background-color:darkturquoise;
+    margin-right:60px;
+    
+}
+.grid{
+margin-top: 40px;
+padding-top:40px;
+    background-color:darkorange;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly
+}
+.footer{
+    display:flex;
+    justify-content:flex-end
+}
+
